@@ -1,0 +1,222 @@
+.bootstrapHeader {
+    background-color: #0b0b31;
+    color: #eee;
+    font-size: 12px;
+    font-weight: 300;
+    height: 30px;
+}
+
+.top-bar-items ul {
+    list-style: none;
+}
+
+.top-bar-items li {
+    display: inline;
+    border-right: #eee 1px solid;
+}
+
+.Nav_button button {
+    background-color: #0b0b31;
+    color: #eee;
+    border-radius: 5px;
+    border: 0px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+
+}
+
+.Nav_button button:hover {
+    background-color: #ff8901;
+}
+
+@media (min-width:1200px) {
+    .thinkbig {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+.carousel_button button {
+    background-color: #929292;
+    padding: 10px;
+    border: 0px;
+    margin-right: 2px;
+}
+
+.carousel_button button:hover {
+    background-color: #ff8901;
+}
+
+.trio_selection button {
+    background-color: #0b0b31;
+    color: #eee;
+    border-radius: 5px;
+    border: 0px;
+    padding: 5px 10px 5px 10px;
+    font-size: large;
+    font-weight: 500;
+
+}
+
+.trio_selection button:hover {
+    background-color: #ff8901;
+}
+
+@media (min-width:1200px) {
+    .smart {
+        border-right: #a9a9a9 2px solid;
+    }
+
+    .strong {
+        border-right: #a9a9a9 2px solid;
+    }
+}
+
+.smart {
+    border-top: #a9a9a9 2px solid;
+}
+
+.strong {
+    border-top: #a9a9a9 2px solid;
+}
+
+.stable {
+    border-top: #a9a9a9 2px solid;
+}
+
+.serviceNews {
+    background: rgb(28, 45, 63);
+    background: linear-gradient(173deg, rgba(28, 45, 63, 1) 20%, rgba(15, 24, 33, 1) 77%);
+    color: #eee;
+}
+
+@media (min-width:1200px) {
+    .serviceNews ul {
+        line-height: 2.0;
+    }
+
+    .opportunities-list-column p {
+        line-height: 2.0;
+    }
+
+    .services-container {
+        position: relative;
+    }
+
+    .sbtn1 button {
+        position: absolute;
+        bottom: 0;
+    }
+
+    .opportunities-container {
+        position: relative;
+    }
+
+    .obtn1 button {
+        position: absolute;
+        bottom: 0;
+    }
+
+    .news-column {
+        position: relative;
+    }
+
+    .nbtn button {
+        position: absolute;
+        bottom: 0;
+    }
+
+
+}
+
+.sbtn1 button {
+    background-color: #0b0b31;
+    color: #eee;
+    border: 0px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 500;
+    padding: 5px 10px 5px 10px;
+}
+
+.sbtn1 button:hover {
+    background-color: #ff8901;
+}
+
+.service-bullets-column ul {
+    list-style: none;
+    list-style-image: url("C:\\Users\\MCA-26\\Documents\\HTML Project\\Detroix Bootstrap\\media\\gearButton.png")
+}
+
+.opportunities-list-column ul {
+    list-style: none;
+    list-style-image: url("C:\\Users\\MCA-26\\Documents\\HTML Project\\Detroix Bootstrap\\media\\cloudChat.png");
+}
+
+
+.obtn1 button {
+    background-color: #0b0b31;
+    color: #eee;
+    border: 0px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 500;
+    padding: 5px 10px 5px 10px;
+}
+
+.obtn1 button:hover {
+    background-color: #ff8901;
+}
+
+.nbtn button {
+    background-color: #0b0b31;
+    color: #eee;
+    border: 0px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 500;
+    padding: 5px 10px 5px 10px;
+}
+
+.nbtn button:hover {
+    background-color: #ff8901;
+}
+
+.dateOne {
+    color: #eee;
+    background-color: #bb8541;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.dateOne h2 {
+    margin-bottom: -5px;
+}
+
+.dateTwo {
+    color: #eee;
+    background-color: #bc6142;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.dateTwo h2 {
+    margin-bottom: -5px;
+}
+
+.dateThree {
+    color: #eee;
+    background-color: #bd425e;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.dateThree h2 {
+    margin-bottom: -5px;
+}
+
+.footer {
+    background-color: #0e1e31;
+    letter-spacing: 1px;
+    color: #eee;
+}
